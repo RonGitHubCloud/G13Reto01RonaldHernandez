@@ -9,7 +9,7 @@ body {
 }
 header {
     background-color: #0c04f6fd;
-    color: #0832f2;
+    color: #ecedf2;
     text-align: center;
     padding: 1rem;
     margin-bottom: 2rem;
@@ -18,7 +18,7 @@ h1 {
     color: #fbfbfb00;
 }
 h2 {
-    color: #fafafa;
+    color: #062dee;
 }
 .photo {
     width: 150px;
