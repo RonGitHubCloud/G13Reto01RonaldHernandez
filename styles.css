@@ -8,7 +8,7 @@ body {
     background-color: #f4f4f4;
 }
 header {
-    background-color: #0c04f6fd;
+    background-color: #0c04f628;
     color: #ecedf2;
     text-align: center;
     padding: 1rem;
@@ -27,7 +27,7 @@ h2 {
     object-fit: cover;
     margin: 0 auto 1rem;
     display: block;
-    border: 3px solid #055af823;
+    border: 3px solid #15f80577;
 }
 section {
     background-color: #fff;
