@@ -14,8 +14,11 @@ header {
     padding: 1rem;
     margin-bottom: 2rem;
 }
-h1, h2 {
-    color: #067ef648;
+h1 {
+    color: #fbfbfb00;
+}
+h2 {
+    color: #067ef6;
 }
 .photo {
     width: 150px;
