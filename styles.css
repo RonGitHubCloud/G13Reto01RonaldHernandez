@@ -8,16 +8,13 @@ body {
     background-color: #f4f4f4;
 }
 header {
-    background-color: #0c04f628;
+    background-color: #0461f628;
     color: #ecedf2;
     text-align: center;
     padding: 1rem;
     margin-bottom: 2rem;
 }
-h1 {
-    color: #fbfbfb00;
-}
-h2 {
+h1, h2 {
     color: #062dee;
 }
 .photo {
