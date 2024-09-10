@@ -8,23 +8,23 @@ body {
     background-color: #f4f4f4;
 }
 header {
-    background-color: #0759acfa;
+    background-color: #04f6ea67;
     color: #ecf0f1;
     text-align: center;
     padding: 1rem;
     margin-bottom: 2rem;
 }
 h1, h2 {
-    color: #f3f6f9ef;
+    color: #067ef6ef;
 }
 .photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 60%;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
     object-fit: cover;
     margin: 0 auto 1rem;
     display: block;
-    border: 3px solid #05f841;
+    border: 3px solid #05dcf8;
 }
 section {
     background-color: #fff;
